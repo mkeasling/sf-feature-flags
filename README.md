@@ -2,6 +2,11 @@
 
 Easily add Feature Flags to your code, and allow admins to turn toggle features on and off, at the user, profile, and org levels.
 
+<a href="https://githubsfdeploy.herokuapp.com?owner=mkeasling&repo=sf-feature-flags&ref=main">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
+
 ## Introduction
 
 Feature Flags are a way of allowing admins to easily enable/disable features, both for the org as a whole, and for individual users or profiles. This is very useful for a number of different use cases:

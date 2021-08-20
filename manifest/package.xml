@@ -10,8 +10,7 @@
         <name>ApexClass</name>
     </types>
     <types>
-        <members>Feature_Flag.T_OppTeamMember_SyncToJira</members>
-        <members>Feature_Flag.T_Opp_SyncToJira</members>
+        <members>Feature_Flag.T_Opp_Example</members>
         <name>CustomMetadata</name>
     </types>
     <types>
