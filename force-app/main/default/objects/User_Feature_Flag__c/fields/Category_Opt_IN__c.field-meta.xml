@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Category_Opt_IN__c</fullName>
+    <encryptionScheme>None</encryptionScheme>
+    <externalId>false</externalId>
+    <inlineHelpText>Opt in to whole categories of features.  T=Trigger,P=Process Builder,F=Flow. Optionally, narrow to specific objects. EG: T,PB - OR - T.Opportunity,T.Contact,PB.Case</inlineHelpText>
+    <label>Category Opt IN</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>TextArea</type>
+</CustomField>

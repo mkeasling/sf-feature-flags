@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Flags</members>
+        <members>Flags_Test</members>
+        <members>InvFlags</members>
+        <members>TestDataFactory</members>
+        <members>Utils</members>
+        <members>Utils_Test</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Feature_Flag.T_OppTeamMember_SyncToJira</members>
+        <members>Feature_Flag.T_Opp_SyncToJira</members>
+        <name>CustomMetadata</name>
+    </types>
+    <types>
+        <members>Feature_Flag__mdt</members>
+        <members>User_Feature_Flag__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+		<members>Feature_Flag__mdt-Feature Flag Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>Feature_Flag__mdt.All</members>
+        <name>ListView</name>
+    </types>
+    <version>51.0</version>
+</Package>
